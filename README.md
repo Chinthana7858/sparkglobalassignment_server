@@ -88,13 +88,5 @@ node server.js
 
 ---
 
-## ☁️ Deployment
-
-This app can be deployed easily to:
-- [Railway](https://sparkglobalassignmentserver-production-db41.up.railway.app)
-
-Make sure environment variables are configured in the hosting platform.
-
----
 
 
