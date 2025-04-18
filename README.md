@@ -54,7 +54,7 @@ Delete a product by ID
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Chinthana7858/sparkglobalassignment_server.git
 cd server
 ```
 
